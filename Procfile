@@ -1,0 +1,1 @@
+web: gunicorn earthquakes:appweb: gunicorn earthquakes:app
